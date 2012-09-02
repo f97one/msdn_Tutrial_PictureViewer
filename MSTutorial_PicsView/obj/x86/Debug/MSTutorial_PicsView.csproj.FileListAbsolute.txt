@@ -1,0 +1,9 @@
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\bin\Debug\MSTutorial_PicsView.exe
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\bin\Debug\MSTutorial_PicsView.pdb
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\obj\x86\Debug\MSTutorial_PicsView.Properties.Resources.resources
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\obj\x86\Debug\MSTutorial_PicsView.exe
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\obj\x86\Debug\MSTutorial_PicsView.pdb
+C:\Users\kazutoshi\documents\visual studio 2010\Projects\MSTutorial_PicsView\MSTutorial_PicsView\obj\x86\Debug\MSTutorial_PicsView.Form1.resources
