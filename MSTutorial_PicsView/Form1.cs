@@ -23,7 +23,10 @@ namespace MSTutorial_PicsView
 
         private void showButton_Click(object sender, EventArgs e)
         {
-
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                pictureBox1.Load(openFileDialog1.FileName);
+            }
         }
 
         private void clearButton_Click(object sender, EventArgs e)
@@ -37,6 +40,11 @@ namespace MSTutorial_PicsView
         }
 
         private void closeButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
 
         }
